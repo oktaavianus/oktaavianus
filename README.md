@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oktaavianus
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me LinkedIn : Oktavianus Prasetyo | Instagram : @oktaavianus_ | Facebook : Oktavianus Kurniadi Prasetyo
+- 📫 Reach me on LinkedIn : Oktavianus Prasetyo | Instagram : @oktaavianus_ | Facebook : Oktavianus Kurniadi Prasetyo
 
 <!---
 oktaavianus/oktaavianus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
